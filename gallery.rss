@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Италиански език</title>
+		<link>http://italiano.free.bg/bg/index.html</link>
+		<description>Италиански език,Lingua italiana,италиански,език,lingua,italiana,italiano,речник,речници, dizionario,dizionari,материал,материали,помощ,studiare,studio,studente,фразеологичен,fraseologico,курс,
+курсове,corso,граматика,grammatica,текст,testo,testi,лексика,лексикални,упражнение,упражнения,esercizi,
+esercizio,lessico,lessico,lessicali,vocabolario,glossario</description>
+		<language>bg-bg</language>
+		<image>
+			<title>Италиански език</title>
+			<url>http://italiano.free.bg/img/favicon.jpg</url>
+			<link>http://italiano.free.bg</link>
+		</image>
+		<item>
+			<title>Италианско-български фразеологичен речник</title>
+			<media:description>Автор: Иван Тонкин Обем: около 6000 идиома, 879 стр. Формат в мм.: 175х240 Издател: Романистика Твърди  корици Година на издаване: 2004 Първо издание ISBN 954-90995-9-8</media:description>
+			<link>bg/fradiz_more.html</link>
+			<media:thumbnail url="img/fradiz_200x246.gif"/>
+			<media:content url="img/fradiz_400x568.jpg"/>
+		</item>
+		<item>
+			<title>Българско-италиански речник</title>
+			<media:description>Автор: М. Кавалето-Петрова, М. Бертоли-Симеонова, С. Тодоров, Иван Тонкин Обем: 735 стр. Формат в мм.: 175х240 Издател: ЕМАС Твърди корици Година на издаване: 2003 Актуализирано и разширено издание</media:description>
+			<link>bg/bgitdiz_more.html</link>
+			<media:thumbnail url="img/diz1_200x278.gif"/>
+			<media:content url="img/diz1_200x278.gif"/>
+		</item>
+		<item>
+			<title>Италианско-български речник</title>
+			<media:description>Автор: Иван Тонкин Обем: 10000 думи, 240 стр. Издател: ГАЛ-ИКО Меки корици Година на издаване: 1992 ISBN 954-8010-05-4</media:description>
+			<link>bg/itbgdiz_more.html</link>
+			<media:thumbnail url="img/diz2_200x274.gif"/>
+			<media:content url="img/diz2_200x274.gif"/>
+		</item>
+		<item>
+			<title>Италиански пословици</title>
+			<media:description>Автор: Иван Тонкин Обем: 1215 пословици, 261 стр. Издател: Наука и изкуство Меки корици Година на издаване: 1984 </media:description>
+			<link>bg/proverbi_more.html</link>
+			<media:thumbnail url="img/proverbi_200x289.gif"/>
+			<media:content url="img/proverbi_200x289.gif"/>
+		</item>
+		<item>
+			<title>Българско-италиански речник</title>
+			<media:description>Автор: Иван Тонкин Обем: 10000 думи, 266 стр. Издател: Наука и изкуство Твърди корици Година на издаване: 1984 </media:description>
+			<link>bg/bgitdiz2_more.html</link>
+			<media:thumbnail url="img/diz3_200x270.gif"/>
+			<media:content url="img/diz3_200x270.gif"/>
+		</item>
+		<item>
+			<title>Италиански език. Курс от текстове и лексикални упражнения</title>
+			<media:description>Автор: Иван Тонкин Обем: 311 стр. Издател: Романистика Меки корици Година на издаване: 2006 Първо издание
+ISBN-10: 954-354-001-2 ISBN-13: 978-954-354-001-3</media:description>
+			<link>it/corso2_more.html</link>
+			<media:thumbnail url="img/corso2_200x301.gif"/>
+			<media:content url="img/corso2_front_250x377.gif"/>
+		</item>
+		<item>
+			<title>Курс по италиански език. Текстове и лексикални упражнения</title>
+			<media:description>Автор: Иван Тонкин, Неда Бояджиева Обем: 272 стр. Издател: Издателство "Рива" Меки корици Година на издаване: 2007 Първо издание ISBN 978-954-320-123-5</media:description>
+			<link>it/corso_more.html</link>
+			<media:thumbnail url="img/corso_200x232.gif"/>
+			<media:content url="img/corso_front_250x379.jpg"/>
+		</item>
+		<item>
+			<title>Учебник по италиански език за студентите от трети курс от специалността италианска филология</title>
+			<media:description>Автор: Иван Тонкин Обем: 135 стр. Издател: Университетско издателство "Св. Климент Охридски" Меки корици Година на издаване: 1991 </media:description>
+			<link>bg/man3_more.html</link>
+			<media:thumbnail url="img/man3_200x245.gif"/>
+			<media:content url="img/man3_200x245.gif"/>
+		</item>
+		<item>
+			<title>Учебник по италиански език за студентите от четвърти курс от специалността италианска филология</title>
+			<media:description>Автор: Иван Тонкин Обем: 135 стр. Издател: Университетско издателство "Св. Климент Охридски" Меки корици Година на издаване: 1991 </media:description>
+			<link>bg/man4_more.html</link>
+			<media:thumbnail url="img/man4_200x289.gif"/>
+			<media:content url="img/man4_200x289.gif"/>
+		</item>
+		<item>
+			<title>Италианска граматика</title>
+			<media:description>Автор: ПИЕТРО ТРИФОНЕ, МАСИМО ПАЛЕРМО Превод: Иван Тонкин, Дария Карапеткова Обем: 448 стр. Издател: Zanichelli, ИК "ЕМАС" Меки корици Година на издаване: 2005 ISBN 954-8793-89-X</media:description>
+			<link>bg/gram_more.html</link>
+			<media:thumbnail url="img/gram_200x240.gif"/>
+			<media:content url="img/gram_front_250x362.jpg"/>
+		</item>
+		<item>
+			<title>Николо Макиавели Избрани съчинения</title>
+			<media:description>Превод: Иван Тонкин Обем: 448 стр. Издател: Наука и изкуство Твърди корици Година на издаване: 1985</media:description>
+			<link>bg/index.html#10</link>
+			<media:thumbnail url="img/machiavelli_200x313.gif"/>
+			<media:content url="img/machiavelli_200x313.gif"/>
+		</item>
+		<item>
+			<title>Николо Макиавели Владетелят</title>
+			<media:description>Превод: Иван Тонкин Обем: 247 стр. Издател: Жар птица Меки корици Година на издаване: 2001 ISBN 954-90925-3-4</media:description>
+			<link>bg/index.html#11</link>
+			<media:thumbnail url="img/machiavelli1_200x310.gif"/>
+			<media:content url="img/machiavelli1_200x310.gif"/>
+		</item>
+		<item>
+			<title>Революционният Макиавели</title>
+			<media:description>Автор: Уго Доти Превод: Иван Тонкин Обем: 575 стр. Издател: Рива Меки корици Година на издаване: 2005 ISBN 954-320-027-0</media:description>
+			<link>bg/index.html#14</link>
+			<media:thumbnail url="img/machiavelli2_200x306.gif"/>
+			<media:content url="img/machiavelli2_200x306.gif"/>
+		</item>
+		<item>
+			<title>Николо Макиавели Владетелят; Размишления върху първите десет книги на Тит Ливий</title>
+			<media:description>Превод: Иван Тонкин Обем: 272 стр. Издател: Издателство Труд Твърди и меки корици Година на издаване: 2009</media:description>
+			<link>bg/index.html#20</link>
+			<media:thumbnail url="img/macc200x274.gif"/>
+			<media:content url="img/macc200x274.gif"/>
+		</item>
+		<item>
+			<title>Бенедето Кроче Естетика</title>
+			<media:description>Превод: Иван Тонкин Обем: 331 стр. Издател: Наука и изкуство Меки корици Година на издаване: 1996 ISBN 954-02-0208-6</media:description>
+			<link>bg/index.html#12</link>
+			<media:thumbnail url="img/croce1_200x325.gif"/>
+			<media:content url="img/croce1_200x325.gif"/>
+		</item>
+		<item>
+			<title>Бенедето Кроче Естетика</title>
+			<media:description>Превод: Иван Тонкин Обем: 519 стр. Издател: Рива Меки корици Година на издаване: 2006 ISBN 954-320-050-5</media:description>
+			<link>bg/index.html#13</link>
+			<media:thumbnail url="img/croce2_200x314.gif"/>
+			<media:content url="img/croce2_200x314.gif"/>
+		</item>
+		<item>
+			<title>Животът и времето на Волфганг Амадеус Моцарт</title>
+			<media:description>Автор: Пиеро Мелограни Превод: Иван Тонкин Обем: 392 стр. Издател: Рива Меки корици Година на издаване: 2008 ISBN 978-954-320-148-8</media:description>
+			<link>bg/index.html#15</link>
+			<media:thumbnail url="img/mozart_200x319.gif"/>
+			<media:content url="img/mozart_200x319.gif"/>
+		</item>
+		<item>
+			<title>Диалог на спасението 30 ГОДИНИ ВТОРИ ВАТИКАНСКИ СЪБОР</title>
+			<media:description>Превод: Иван Тонкин Обем: 262 стр. Издател: "Нов ден" Меки корици Година на издаване: 1995 ISBN 954-8575-08-6</media:description>
+			<link>bg/index.html#16</link>
+			<media:thumbnail url="img/dialog_200x361.gif"/>
+			<media:content url="img/dialog_200x361.gif"/>
+		</item>
+		<item>
+			<title>Личност и акт Карол Войтила - папа Йоан Павел II</title>
+			<media:description>Превод: Иван Тонкин Обем: 406 стр. Издател: "Нов ден" Меки корици Година на издаване: 1994</media:description>
+			<link>bg/index.html#17</link>
+			<media:thumbnail url="img/act_200x303.gif"/>
+			<media:content url="img/act_200x303.gif"/>
+		</item>
+		<item>
+			<title>Писмо до един приятел евреин</title>
+			<media:description>Превод: Иван Тонкин Обем: 90 стр. Издател: "Нов ден" Меки корици Година на издаване: 1994 ISBN 954-8575-07-08</media:description>
+			<link>bg/index.html#18</link>
+			<media:thumbnail url="img/lettera_200x339.gif"/>
+			<media:content url="img/lettera_200x339.gif"/>
+		</item>
+		<item>
+			<title>Приказки от слънчева Италия</title>
+			<media:description>Превод: Иван Тонкин Обем: 238 стр. Издател: "Нов златорог" Меки корици Година на издаване: 1995 ISBN 954-492-083-08</media:description>
+			<link>bg/index.html#19</link>
+			<media:thumbnail url="img/fav_200X312.gif"/>
+			<media:content url="img/fav_200X312.gif"/>
+		</item>
+	</channel>
+</rss>
