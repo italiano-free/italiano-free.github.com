@@ -13,6 +13,13 @@ esercizio,lessico,lessico,lessicali,vocabolario,glossario</description>
 			<link>http://italiano.free.bg</link>
 		</image>
 		<item>
+			<title>Италианско-български речник</title>
+			<media:description>втор: Иван Тонкин Обем: 2405 стр. Формат в мм.: 170x250 Тегло: 2500 гр Издател: ИСМ Компания ЕООД Твърди корици Година на издаване: юли, 2020</media:description>
+			<link>bg/itbgdiz_2020.html</link>
+			<media:thumbnail url="img/itbgdix2020_200x270.png"/>
+			<media:content url="img/itbgdix2020_400x535.png"/>
+		</item>
+		<item>
 			<title>Италианско-български фразеологичен речник</title>
 			<media:description>Автор: Иван Тонкин Обем: около 6000 идиома, 879 стр. Формат в мм.: 175х240 Издател: Романистика Твърди  корици Година на издаване: 2004 Първо издание ISBN 954-90995-9-8</media:description>
 			<link>bg/fradiz_more.html</link>
